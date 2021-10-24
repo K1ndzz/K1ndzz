@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K1ndzz
-- 👀 I’m interested in Hacking Programing
-- 🌱 I’m currently learning Java/HTML
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Python
 - 📫 How to reach me rikichambel@gmail.com
 
 <!---
